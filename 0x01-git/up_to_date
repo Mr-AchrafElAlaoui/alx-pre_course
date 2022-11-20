@@ -4,3 +4,5 @@ git push
 git branch
 git checkout master
 git push origin update_scrip
+git status
+git pull
